@@ -51,7 +51,13 @@ or topics for which you intend to keep up-to-date slide decks.
 * Advanced Regex in C# Flavor, Suamere
   * This is a fun talk, if that's what you're into, about Regular Expressions in C#;  When to use them, How to use them, and some things C# Regex can do that no other Regex flavor can do.
 * XSS Attacks - Stop 'em In Their Tracks!, Joshua Walcher 
-  * What XSS attacks are and how to test your website and protect it from XSS Attacks. 
+  * What XSS attacks are and how to test your website and protect it from XSS Attacks.
+* How to Build Automated Smoke Tests Using Protractor, Dale Spoonemore
+  * I've built automated tests that run every 2/3 minutes to verify our applications are loading correctly and performing several key operations. This talk walks through the process of creating an automated test and shows to integrate the tests into TFS.
+* How to Build Automated Smoke Tests Using Protractor, Dale Spoonemore
+  * I've built automated tests that run every 2/3 minutes to verify our applications are loading correctly and performing several key operations. This talk walks through the process of creating an automated test and shows to integrate the tests into TFS.
+* Overcoming anxiety and depression through growing food - Dale Spoonemore
+  * This is my story about losing 120 pounds, losing myself, running marathons, being on the Rachael Ray show, meeting my wife, our garden, and how it's all related to my battle against anxiety and depression. I will also talk about how we converted our urban lawn into garden space to grow the food for our family of 6 and how this relates to my career in software
   
 ## Speaker, Bio
 * Luke Crouch (contact: luke dot crouch at gmail dot com)
@@ -64,3 +70,5 @@ or topics for which you intend to keep up-to-date slide decks.
   * Carmen is a JavaScript developer with experience in Angular, Ionic, and Electron. By day she writes desktop apps with Electron, and by night she builds twitterbots and plays board games. Carmen is a frequent speaker at OKC.js and runs the Nerdy Girls codeClub.
 * Joshua Walcher (twitter: @josh_walcher)
   * Full Stack Web Developer for Public Strategies, e-commerce and stock market specialist, PHP and JavaScript user
+* Dale Spoonemore (twitter: @dalespoonemore, @fromseedtospoon)
+  * QA/Automated Testing lead at Surgical Care Affiliates | urban farmer/blogger at www.seedtospoon.net 
