@@ -26,14 +26,15 @@ Other Code of Conduct(s): N/A
     - Youtube:
       - ~~Account~~
       - ~~Channel~~
-    
+
 #### Image design details:
 - favicon_16x16.ico
   - Background color: #FF474A
   - Font:
     - Colors:
       - #FFFFFF
-    - Font-family: 
+    - Font-family:
+      - United Sans
 - Github-icon_200x200.png
   - Graphic colors:
     - #F84548
@@ -41,12 +42,14 @@ Other Code of Conduct(s): N/A
     - Colors:
       - #FFFFFF
     - Font-family:
-- Logo.svg
+      - United Sans
+- logo-vertical.svg
   - Background color: transparent
   - Font:
     - Colors:
-      - #FFFFFF
+      - #000000
     - Font-family:
+      - United Sans
 - Meetup-banner_960x150.jpeg
   - Graphic colors:
     - #F84548
@@ -55,6 +58,7 @@ Other Code of Conduct(s): N/A
     - Colors:
       - #FFFFFF
     - Font-family:
+      - United Sans
 - Twitter-banner_1500x500.jpg
   - Graphic colors:
     - #F84548
@@ -65,7 +69,6 @@ Other Code of Conduct(s): N/A
     - Colors:
       - #FFFFFF
     - Font-family:
+      - United Sans
 - Website-background.svg
-  - Background color:
-  - Graphic colors:
-    - #FF1416
+  - Background color: #FF474A
