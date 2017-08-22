@@ -58,6 +58,8 @@ or topics for which you intend to keep up-to-date slide decks.
   * I've built automated tests that run every 2/3 minutes to verify our applications are loading correctly and performing several key operations. This talk walks through the process of creating an automated test and shows to integrate the tests into TFS.
 * Overcoming anxiety and depression through growing food - Dale Spoonemore
   * This is my story about losing 120 pounds, losing myself, running marathons, being on the Rachael Ray show, meeting my wife, our garden, and how it's all related to my battle against anxiety and depression. I will also talk about how we converted our urban lawn into garden space to grow the food for our family of 6 and how this relates to my career in software
+* Hack the News - Luke Crouch
+  * Learners will use X-Ray Goggles to learn about HTML & CSS while remixing a news website, learning about openly-licensed resources, different forms of media, and how to create something new on the Web through remix.
   
 ## Speaker, Bio
 * Luke Crouch (contact: luke dot crouch at gmail dot com)
