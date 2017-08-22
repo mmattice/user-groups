@@ -60,6 +60,11 @@ or topics for which you intend to keep up-to-date slide decks.
   * This is my story about losing 120 pounds, losing myself, running marathons, being on the Rachael Ray show, meeting my wife, our garden, and how it's all related to my battle against anxiety and depression. I will also talk about how we converted our urban lawn into garden space to grow the food for our family of 6 and how this relates to my career in software
 * Hack the News - Luke Crouch
   * Learners will use X-Ray Goggles to learn about HTML & CSS while remixing a news website, learning about openly-licensed resources, different forms of media, and how to create something new on the Web through remix.
+* Introduction to GitHub
+  * This course is designed to get you started using GitHub in less than an hour.
+    * Use the GitHub.com website to complete the GitHub workflow
+    * Collaborate with new friends on a fun project
+    * Add your pin to the map!
   
 ## Speaker, Bio
 * Luke Crouch (contact: luke dot crouch at gmail dot com)
