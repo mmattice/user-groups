@@ -1,4 +1,6 @@
-**Group email:** ben dot harris at tulsadatascience dot org and david dot farnan at tulsadatascience dot org
+**Group email:** 
+* ben dot harris at tulsadatascience dot org
+* david dot farnan at tulsadatascience dot org
 
 Other Code of Conduct(s): N/A 
 
