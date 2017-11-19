@@ -3,7 +3,7 @@ Group email: muskogee dot webdev at gmail dot com
 Other Code of Conduct(s): N/A 
 
 #### Urls:
-  - Event hub: [Meetup](https://www.meetup.com/Muskogee-Web-Dev-Design/)
+  - Event hub: [Meetup](https://www.meetup.com/techogee/)
   - ~~Website:~~ 
   - Social media:
     - Facebook:
