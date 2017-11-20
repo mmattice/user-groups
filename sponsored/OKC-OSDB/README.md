@@ -23,11 +23,10 @@ Other Code of Conduct(s): N/A
       - ~~Channel~~
 
 #### Image design details:
-- Logo_1077x476.jpeg
+- Logo_270x270.png
   - Background color: transparent
   - Graphic colors:
-    - #666666
-    - #1A374F
+    - #3692F2
   - Font:
-    - Color: #FFFFFF
+    - Color: #3692F2
     - Font-family:
