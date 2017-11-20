@@ -1,4 +1,5 @@
-Group email: muskogee dot webdev at gmail dot com
+Group email:
+ - diana at varnes dot org
 
 Other Code of Conduct(s): N/A 
 
@@ -23,3 +24,8 @@ Other Code of Conduct(s): N/A
       - ~~Channel~~
 
 #### Image design details:
+- Logo_810x450.png
+  - Graphic colors:
+  - Font:
+    - Colors:
+    - Font-family:
