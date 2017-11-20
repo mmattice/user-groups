@@ -1,4 +1,5 @@
-Group email: 
+Group email:
+ - diana at varnes dot org
 
 Other Code of Conduct(s): [Code of America's CoC](https://github.com/codeforamerica/codeofconduct) 
 
@@ -23,3 +24,11 @@ Other Code of Conduct(s): [Code of America's CoC](https://github.com/codeforamer
       - ~~Channel~~
 
 #### Image design details:
+- Logo_940x788.png:
+  - Background color: #FFFFFF
+  - Font:
+    - Colors:
+      - #A90032
+      - #767679
+      - #2E8CC7
+    - Font-family: Times New Roman
