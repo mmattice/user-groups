@@ -2,7 +2,7 @@ Dear { usergroup_name },
 
 We are pleased to inform you that the Techlahoma Board approved { usergroup_name } for { year }.
 
-Your group is important to the Oklahoma tech community, and Techlahoma is excited to sponsor your group! Please note that we use [Meetup](link) for events. Meetup allows us to carefully track the number of Oklahomans each of groups reaches, which in turn helps us know where to focus our efforts.
+Your group is important to the Oklahoma tech community, and Techlahoma is excited to sponsor your group! Please note that we use [Meetup](link) for events. Meetup allows us to carefully track the number of Oklahomans each of the groups reaches, which in turn helps us know where to focus our efforts.
 
 { if approved for SS46 }
 
