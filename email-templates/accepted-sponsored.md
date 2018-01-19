@@ -10,13 +10,12 @@ Additionally, we are pleased to offer space for your group to meet at [StarSpace
 
 { if approved for food/drink reimbursement }
 
-We know it's easier to provide the content your group provides when you don't have to worry about food and drinks. We have allotted funds to reimburse your group for food, up to $4 per attendee.
+We know it's easier to provide the content your group provides when you don't have to worry about food and drinks. Please encourage your attendees to use Meetup, because this is what we use to calculate how much food is needed. We have allotted funds to reimburse your group for food and drinks, up to $4 per Meetup RSVP.
 
 In order to arrange your reimbursement, please provide the following:
 
 - A picture of the receipt
-- A final headcount for the event (including organizers)
-- A photo of the meetup in action
+- A photo of the meetup in action (posted to the Meetup event)
 
 Once those have been provided via the event's Github issue, you can apply for reimbursement through [cash.me](link). If you do not have a Square Cash account, [please go ahead and create one](link to instructions).
 
