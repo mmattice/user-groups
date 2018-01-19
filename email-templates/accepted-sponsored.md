@@ -8,6 +8,12 @@ Your group is important to the Oklahoma tech community, and Techlahoma is excite
 
 Additionally, we are pleased to offer space for your group to meet at [StarSpace46](link) at { dateAndTime }. Your event space reservation cannot be completed until your event is scheduled on Meetup, so _please schedule your events promptly._
 
+Please also review the attached StarSpace46 User Group Leader Agreement.
+
+{ if approved for 36N }
+
+Additionally, we are pleased to offer space for your group to meet at [36°N](link). Please contact [Sarah McKelvey](email link?) to confirm your event space.
+
 { if approved for food/drink reimbursement }
 
 We know it's easier to provide the content your group provides when you don't have to worry about food and drinks. Please encourage your attendees to use Meetup, because this is what we use to calculate how much food is needed. We have allotted funds to reimburse your group for food and drinks, up to $4 per Meetup RSVP.
