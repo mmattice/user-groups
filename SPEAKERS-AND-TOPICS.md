@@ -78,4 +78,6 @@ or topics for which you intend to keep up-to-date slide decks.
 * Joshua Walcher (twitter: @josh_walcher)
   * Full Stack Web Developer for Public Strategies, e-commerce and stock market specialist, PHP and JavaScript user
 * Dale Spoonemore (twitter: @dalespoonemore, @fromseedtospoon)
-  * QA/Automated Testing lead at Surgical Care Affiliates | urban farmer/blogger at www.seedtospoon.net 
+  * QA/Automated Testing lead at Surgical Care Affiliates | urban farmer/blogger at www.seedtospoon.net
+* Jeff Maxwell (jeffmaxwell.com)
+  * Software Developer/Security Architect for TCN Solutions Inc. | ASP.NET, .NET Core, AngularJS, Angular 2/4/5...
