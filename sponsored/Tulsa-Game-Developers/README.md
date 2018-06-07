@@ -18,9 +18,7 @@ Other Code of Conduct(s): N/A
     - [Tumblr](https://tulsagamedevs.tumblr.com)
     - ~~Twitch~~
     - [Twitter](https://twitter.com/TulsaGameDevs)
-    - Youtube:
-      - ~~Account~~
-      - ~~Channel~~
+    - [Youtube](https://www.youtube.com/channel/UCtrT9CnLVkmOWIHH2wd8L7w)
 
 #### Image design details:
 #### Image design details:

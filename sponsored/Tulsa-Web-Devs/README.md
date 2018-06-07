@@ -18,9 +18,7 @@ Other Code of Conduct(s): N/A
     - ~~Tumblr~~
     - ~~Twitch~~
     - [Twitter](https://twitter.com/tulsawebdevs)
-    - Youtube:
-      - ~~Account~~
-      - ~~Channel~~
+    - [Youtube](https://www.youtube.com/channel/UCqxOg-OSKPSkNyQkrE3tHAQ)
 
 #### Image design details:
 - Logo_750x800.png
