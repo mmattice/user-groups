@@ -18,8 +18,6 @@ Other Code of Conduct(s): N/A
     - ~~Tumblr~~
     - ~~Twitch~~
     - [Twitter](https://twitter.com/hardwaretulsa)
-    - Youtube:
-      - ~~Account~~
-      - ~~Channel~~
+    - [Youtube](https://www.youtube.com/channel/UCSn4FIZEcvPx_Ri5fYCLSKA)
 
 #### Image design details:
