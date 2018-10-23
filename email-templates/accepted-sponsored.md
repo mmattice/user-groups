@@ -8,7 +8,7 @@ Your group is important to the Oklahoma tech community, and Techlahoma is excite
 
 Additionally, we are pleased to offer space for your group to meet at [StarSpace46](link) at { dateAndTime }. Your event space reservation cannot be completed until your event is scheduled on Meetup, so _please schedule your events promptly._
 
-Please also review the attached StarSpace46 User Group Leader Agreement.
+Please also review the attached StarSpace46 User Group Leader Agreement, please make sure to sign the agreement and return to [OutReach](outreach@techlahoma.org).
 
 { if approved for 36N }
 
